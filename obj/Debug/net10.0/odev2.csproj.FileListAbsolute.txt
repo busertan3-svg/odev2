@@ -1,0 +1,14 @@
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\bin\Debug\net10.0\odev2.exe
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\bin\Debug\net10.0\odev2.deps.json
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\bin\Debug\net10.0\odev2.runtimeconfig.json
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\bin\Debug\net10.0\odev2.dll
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\bin\Debug\net10.0\odev2.pdb
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.AssemblyInfoInputs.cache
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.AssemblyInfo.cs
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.csproj.CoreCompileInputs.cache
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.dll
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\refint\odev2.dll
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.pdb
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\odev2.genruntimeconfig.cache
+C:\Users\busenur.ertan\Desktop\Pratikler\odev2\obj\Debug\net10.0\ref\odev2.dll
